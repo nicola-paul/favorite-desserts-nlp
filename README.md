@@ -1,2 +1,2 @@
-# favorite-desserts-nlp
-Favorite desserts
+## Favorite desserts of the Santoro Lab
+- Nicola: gelato
